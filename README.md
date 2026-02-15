@@ -13,10 +13,6 @@ wayvol gives you per-application volume control with full keyboard navigation an
 - **Unplugged device filtering** — HDMI/DisplayPort outputs that aren't connected are hidden automatically
 - **Accessible** — full keyboard navigation, AT-SPI labels on every widget, screen reader announcements for stream changes
 
-## Screenshot
-
-*(coming soon)*
-
 ## Requirements
 
 - GTK4 (4.14+)
