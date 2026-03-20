@@ -29,7 +29,7 @@ This project is part of an accessible Wayland desktop stack. See ~/pw-audioshare
 
 ### Technical Stack
 - **Language:** Rust
-- **GUI:** gtk4-rs (0.9+) with libadwaita (0.7+) for modern styling
+- **GUI:** gtk4-rs (0.10+) with libadwaita (0.8+) for modern styling
 - **PipeWire:** Use `wpctl` (WirePlumber CLI) for volume control operations OR pipewire-rs crate
   - `wpctl status` — list streams
   - `wpctl get-volume <id>` — get volume
