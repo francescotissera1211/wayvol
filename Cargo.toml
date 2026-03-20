@@ -1,6 +1,6 @@
 [package]
 name = "wayvol"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Accessible GTK4 PipeWire volume mixer for Wayland"
 
